@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.js": "javascriptreact",
+		"plyconfig.json": "jsonc"
+	},
+	"notebook.output.scrolling": true
+}
